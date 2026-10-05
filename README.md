@@ -1,4 +1,4 @@
-echnologies Used
+technologies Used
 Python
 Pandas
 NumPy
